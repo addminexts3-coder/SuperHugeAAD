@@ -26,7 +26,7 @@ init_args:
           # - 9 # PKU-NBD
           #- 10 # sparKULee
   overlap: 1
-  root_path: /home/sid/Programming/python/EEG-sAAD/dataset/AVGCAAD2024
+  root_path: /content/AVGCAAD2024
   preproc_stage: preprocessed
   transform:
     null
